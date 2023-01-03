@@ -5,6 +5,7 @@ public class Withdraw {
 
         System.out.println("How much money you want?");
         System.out.println("a lot");
+        System.out.println("ok then");
 
     }
 }
