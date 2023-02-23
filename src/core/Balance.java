@@ -6,5 +6,7 @@ public class Balance {
         System.out.println("Balance");
 
         System.out.println("New balance");
+        
+        // You should add more balance 
     }
 }
